@@ -3,7 +3,7 @@
 "success": true,
 "errors" : null,
 "data": [{"instituicao" : "SOFISA", "basileia" : 16.8 , "imobilizacao" : 10.1},
-{"instituicao" : "ARBI", "basileia" : 18,6 , "imobilizacao" : 20.,7},
+{"instituicao" : "ARBI", "basileia" : 18.6 , "imobilizacao" : 20.7},
 {"instituicao" : "BMG", "basileia" : 17.8 , "imobilizacao" : 43.5},
 {"instituicao" : "AGIBANK", "basileia" : 12.5 , "imobilizacao" : 10.5},
 {"instituicao" : "BANCO MÁXIMA", "basileia" : 10.6 , "imobilizacao" :31.5},
